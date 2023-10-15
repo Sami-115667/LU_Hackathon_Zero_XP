@@ -1,7 +1,8 @@
 # Zero_Xp_LU_Hackathon
+Presented by Leading University,Sylhet
 # Expertise Connector Android App
 
-The Expertise Connector Android app is a platform that facilitates the connection between expertise consultant teachers, expertise categories, and students. It allows students to find and connect with teachers who possess expertise in specific categories, enhancing the learning experience.
+The Expertise Connector Android application serves as a robust platform that seamlessly bridges the gap between proficient and knowledgeable teachers, a diverse spectrum of expertise categories, and inquisitive students. This powerful tool empowers students to effortlessly seek out and establish connections with educators who possess profound expertise in specific academic domains, thereby enhancing and enriching their educational journey.
 
 ## Table of Contents
 - [Note](#note)
@@ -12,7 +13,7 @@ The Expertise Connector Android app is a platform that facilitates the connectio
 
 
 ## Note
-It is a hackathon project . We complete this app in one day .
+This project is the result of an intense 22-hour coding marathon during a hackathon. In just one day, we managed to bring this app to life, showcasing the power of dedication and rapid development to create a functional and impactful solution.
   
 
 ## Features
@@ -36,4 +37,4 @@ It is a java language based app .For backend we use firebase database and for fr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RlM100always/Zero_Xp_LU_Hackathon.git
+   git clone https://github.com/Sami-115667/LU_Hackathon_Zero_XP.git
