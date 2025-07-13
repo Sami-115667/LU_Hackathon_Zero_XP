@@ -13,7 +13,7 @@ The Expertise Connector Android application serves as a robust platform that sea
 
 
 ## Note
-This project is the result of an intense 22-hour coding marathon during a hackathon. In just one day, we managed to bring this app to life, showcasing the power of dedication and rapid development to create a functional and impactful solution.
+This project is a team project cosisting of 3 members and the result of an intense 22-hour coding marathon during a hackathon. In just one day, we managed to bring this app to life, showcasing the power of dedication and rapid development to create a functional and impactful solution.
   
 
 ## Features
